@@ -1,0 +1,5 @@
+lines = input("Write one line about your day: ")
+file = open("diary.txt","a")
+file.write(lines + "\n")
+file.close()
+print("Diary entry added successfully.")

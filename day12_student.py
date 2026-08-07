@@ -1,0 +1,7 @@
+name=input("Enter your name: ")
+age =int(input("Enter your age: "))
+branch=input("Enter your branch: ")
+file = open("student.txt","w")
+file.write(f"Name: {name}\nAge: {age}\nBranch: {branch}\n")
+file.close()
+print("Student information written to file successfully.")

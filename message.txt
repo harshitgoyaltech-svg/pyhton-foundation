@@ -1,0 +1,4 @@
+Hello, this is a test message.
+This message is written to a file using Python.
+Harshit, Welcome to File Handling.
+Python is awesome for file handling.
