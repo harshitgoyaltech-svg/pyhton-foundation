@@ -1,0 +1,14 @@
+[
+    {
+        "source": "Solar",
+        "capacity": 500
+    },
+    {
+        "source": "Wind",
+        "capacity": 300
+    },
+    {
+        "source": "Hydro",
+        "capacity": 800
+    }
+]
